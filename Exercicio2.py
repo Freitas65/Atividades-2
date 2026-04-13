@@ -1,6 +1,0 @@
-print ("entre com 2 numeros para serem somados")
-primeira_variavel = input ("entre com o seu primeiro numero! ")
-primeira_variavel = int(primeira_variavel) 
-segunda_variavel = input ("entre com seu segundo número! ")
-segunda_variavel = int(segunda_variavel)
-print("O Total dessa operação é", primeira_variavel + segunda_variavel)
